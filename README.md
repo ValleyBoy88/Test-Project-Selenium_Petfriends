@@ -1,4 +1,4 @@
-# Test-Project-Selenium_Petfriends
+# Test Project Selenium_Petfriends
 
 Практикум по модую №25:
 
